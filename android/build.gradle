@@ -1,6 +1,6 @@
 plugins {
     id 'com.android.library'
-    id 'org.jetbrains.kotlin.android' version '1.9.22'
+    id 'org.jetbrains.kotlin.android' version '2.1.0'
 }
 
 group = "com.whelksoft.flutter_native_timezone"
